@@ -20,8 +20,8 @@
 - **Font Awesome**
 - **LocalStorage**
 
- ### Output Preview
-
+ ### Output Preview 
+**https://vgweb01.ccbp.tech/**
 The screenshot above showcases **WeatherMate's** clean and intuitive interface displaying real-time weather details. The current city’s temperature, weather conditions, humidity, wind speed, UV index, and visibility are presented clearly. The live clock and date update dynamically, while the dark mode toggle enhances user experience by providing a comfortable viewing option in low-light environments. Bookmarked cities appear in the sidebar for quick access.
 
 ![image](https://github.com/user-attachments/assets/63c452c2-1a9d-44e3-ac20-053965e34e0a)
