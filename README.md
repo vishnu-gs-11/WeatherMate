@@ -1,0 +1,2 @@
+# WeatherMate
+Weather frontend application
